@@ -12,7 +12,7 @@ I'm a developer who loves turning ideas into clean, functional code. I believe i
 |---------|-------------|
 | [Claude Inforcer](https://github.com/NitzanSelwyn/claude-inforcer) | Chrome extension that blocks distracting sites when Claude Code is not running |
 | [Twitter Post Remover](https://github.com/NitzanSelwyn/twitter-post-remover) | Chrome extension that automatically removes promoted/sponsored posts from Twitter/X feeds |
-
+| [Voters-IL](https://github.com/NitzanSelwyn/Voters-IL) | Backend solution for retrieving election data and presenting voting trends in Israel |
 ---
 
 ## 💻 Tech Stack
