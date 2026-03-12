@@ -13,6 +13,8 @@ I'm a developer who loves turning ideas into clean, functional code. I believe i
 | [Claude Inforcer](https://github.com/NitzanSelwyn/claude-inforcer) | Chrome extension that blocks distracting sites when Claude Code is not running |
 | [Twitter Post Remover](https://github.com/NitzanSelwyn/twitter-post-remover) | Chrome extension that automatically removes promoted/sponsored posts from Twitter/X feeds |
 | [Voters-IL](https://github.com/NitzanSelwyn/Voters-IL) | Backend solution for retrieving election data and presenting voting trends in Israel |
+| [Walk Tracker](https://github.com/NitzanSelwyn/walk-tracker) | Community-driven app to track every street you walk, see coverage on a map, and explore your neighborhood |
+
 ---
 
 ## 💻 Tech Stack
@@ -31,6 +33,7 @@ I'm a developer who loves turning ideas into clean, functional code. I believe i
 | Product         | Description                                     | Live                 |
 |-----------------|-------------------------------------------------|----------------------|
 | [MomentumTime](https://momentumtime.app/) | A productivity app designed to help you focus and achieve your daily goals | [momentumtime.app](https://momentumtime.app/) |
+| [Walk Tracker](https://github.com/NitzanSelwyn/walk-tracker) | Track every street you walk, share progress with the community — 100% free & open source | [walk-tracker-zeta.vercel.app](https://walk-tracker-zeta.vercel.app) |
 
 ---
 
