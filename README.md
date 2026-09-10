@@ -17,12 +17,14 @@ I'm a developer who loves turning ideas into clean, functional code. I believe i
 
 ---
 
-## 🚀 My Products
+## 🚀 Products I've worked on
 
 | Product         | Description                                     | Live                 |
 |-----------------|-------------------------------------------------|----------------------|
-| [MomentumTime](https://momentumtime.app/) | A productivity app designed to help you focus and achieve your daily goals | [momentumtime.app](https://momentumtime.app/) |
-| [Walk Tracker](https://github.com/NitzanSelwyn/walk-tracker) | Track every street you walk, share progress with the community — 100% free & open source | [walk-tracker-zeta.vercel.app](https://walk-tracker-zeta.vercel.app) |
+| [Balanced News](https://www.balancednews.co.il/) | Compare how Israeli news sources cover the same story and what each one emphasizes | [balancednews.co.il](https://www.balancednews.co.il/) |
+| [MomentumTime](https://momentumtime.app/) | Track personal and team hours, manage requests, export reports, and calculate wages | [momentumtime.app](https://momentumtime.app/) |
+| [IsometricWeather](https://www.isometricweather.app/) | Live weather and five-day forecasts presented as AI-generated isometric city art | [isometricweather.app](https://www.isometricweather.app/) |
+| [MunchLog](https://munchlog.net/) | Describe a meal to estimate its calories and macros, then track meals, water, and weight | [munchlog.net](https://munchlog.net/) |
 
 ---
 
